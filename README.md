@@ -13,11 +13,10 @@ Flix is an iOS app that allows users to browse movies from the [The Movie Databa
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 ### App Walkthough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+![flixGif2](flixGif2.gif)
 
 
---
-
+---
 ## Flix Part 1
 
 ### User Stories
